@@ -1,16 +1,2 @@
-# chat_midterm
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Hello!
+This is the midterm I was able to come up with. I tried my best on each of the tasks but I had a lot of issues. I would make/modify code and run it and it would work, but then I wouldn't change anything and then it wouldn't work. There were a lot of issues with the different IDE's that had very minisule and specific fixes. I had to uninstal and reinstal multiple things and had to restart my progress many times. I did the very best that I could, followed the tutorials/tools/resources as given. I learned a lot about the realities of app development, but just have a lot of errors in the code trying to get it all together with the technology bugging out. 
