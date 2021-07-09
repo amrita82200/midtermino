@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-
+import 'ad_helper.dart';
+import 'app_theme.dart';
 import 'package:chat_midterm/NavigationPages/greeting.dart';
 import 'package:chat_midterm/NavigationPages/profile.dart';
 import 'package:chat_midterm/NavigationPages/lists.dart';
@@ -16,7 +17,7 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   int _currentIndex = 0;
   final List<Widget> _children = [
-    GreetingPage(Colors.green),
+    //GreetingPage(Colors.green),
     MessagesPage(Colors.blue),
     //save space here
     ProfilePage(Colors.amber)
