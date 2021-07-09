@@ -1,4 +1,18 @@
 import 'package:flutter/material.dart';
+
+class GreetingPage extends StatelessWidget {
+  final Color color;
+
+  GreetingPage(this.color);
+
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      color: color,
+    );
+  }
+}
+/*import 'package:flutter/material.dart';
 import 'package:chat_midterm/app_theme.dart';
 import 'package:chat_midterm/ad_helper.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
@@ -140,3 +154,4 @@ class GreetingPage extends StatefulWidget {
     throw UnimplementedError();
   }
 }
+*/
